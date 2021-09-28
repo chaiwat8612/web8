@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using web8.Models;
+using ContosoUniversity.Models;
 
-namespace web8.Controllers
+namespace ContosoUniversity.Controllers
 {
     public class HomeController : Controller
     {

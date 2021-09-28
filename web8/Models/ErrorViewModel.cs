@@ -1,6 +1,6 @@
 using System;
 
-namespace web8.Models
+namespace ContosoUniversity.Models
 {
     public class ErrorViewModel
     {
